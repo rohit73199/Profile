@@ -1,0 +1,40 @@
+body{
+    
+    border:10px solid purple;
+    font-size:25px;
+}
+.hi{
+    background-image:url("https://d1llvcsapfiksz.cloudfront.net/vendors/ecologyk/ecologyk-synthwave-trap/images/synthwave_trap_image_2-mobile.jpg");
+    background-size:cover;
+   
+    
+    
+}
+
+
+
+
+.html{
+    border:5px solid black;
+    width:560px;
+    height:750px;
+    font-size:16px;
+    background-image:url("https://images.pexels.com/photos/1998479/pexels-photo-1998479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+}
+.image
+{
+   
+   height:250px;
+    width:25px;
+    display:flex;
+    text-align:center;
+    align-items:center;
+}
+img{
+    width:200px;
+     height:200px;
+    border-radius: 50%;}
+    
+.new{
+    display:flex;
+    justify-content:center;
